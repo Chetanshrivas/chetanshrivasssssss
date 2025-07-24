@@ -42,6 +42,27 @@ const projectData = [
     desc: "A web application that showcases a collection of product, allowing users to view, add, edit, and delete products. The application uses MongoDB for data storage, Express and Node.js for the backend, and EJS for rendering dynamic content. Bootstrap and GSAP are used for responsive design and animations. This project demonstrates my full-stack development skills and ability to create interactive web applications."
   },
   {
+    title: "CVisionary",
+    miniDesc:
+      "CVisionary is a resume analysis (with AI) web app built with React Router 7, Tailwind, TypeScript, Vite, and Puter.js that uses open-source AI to evaluate resumes against job descriptions, provide ATS scores, and suggest improvements.",
+    website: "https://cvisionary-ten.vercel.app/",
+    github: "https://github.com/Chetanshrivas/CVisionary",
+    img: "/assets/images/projects/CVisionary-fpp.png",
+    seoimg: "/assets/images/seo/CVisionary-fpp.png",
+    link: "CVisionary",
+    showOnHome: true,
+    tech: [
+      "Javascript",
+      "Typescript",
+      "React.js",
+      "React Router 7",
+      "Tailwind CSS",
+      "Puter.js",
+      "Docker",
+    ],
+    desc: "CVisionary is a resume analysis web app built with React Router 7, Tailwind, TypeScript, Vite, and Puter.js that uses open-source AI to evaluate resumes against job descriptions, provide ATS scores, and suggest improvements."
+  },
+  {
     title: "Brainwave",
     miniDesc:
       "Brainwave is a modern, responsive frontend web application built with Vite, React.js, and Tailwind CSS, showcasing cutting-edge UI/UX through sleek gradients, parallax animations, and component-based design best practices.",

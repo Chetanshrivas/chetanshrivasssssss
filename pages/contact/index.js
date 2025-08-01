@@ -4,7 +4,7 @@ import Head from "next/head";
 import Link from "next/link";
 
 export default function Contact() {
-  const [state, handleSubmit] = useForm("mpwazwgr");
+  const [state, handleSubmit] = useForm("myzpdgpl");
   if (state.succeeded) {
     return <ThankYouMessage />;
   }

@@ -16,7 +16,7 @@ export default function Resume() {
       <div className="px-10 md:px-32 relative z-10">
         <div className="max-w-screen-xl mx-auto">
           <iframe
-            src="/assets/resume/chetan-Resume-main.pdf"
+            src="/assets/resume/Chetan_Resume(2).pdf"
             className="h-[90vh] w-full rounded-xl"
           ></iframe>
         </div>
